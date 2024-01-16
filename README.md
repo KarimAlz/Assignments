@@ -1,1 +1,1 @@
-Müəllimə söz verdiyim üçün tapşırıqları yazıb bura atıram
+İnformatika olimpiadasına hazırlaşmaq üçün kodları yazıb bura atıram
